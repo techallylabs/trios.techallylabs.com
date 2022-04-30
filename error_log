@@ -1,0 +1,4 @@
+[10-Dec-2021 06:44:33 UTC] WordPress database error Table 'i8235382_wp2.wp_aioseo_cache' doesn't exist for query DELETE FROM wp_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NOT NULL AND expiration <= '2021-12-10 06:44:33' )
+/* 1 = 1 */ made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('aioseo_cache_prune'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\CachePrune->prune, AIOSEO\Plugin\Common\Utils\Database->run

@@ -1,0 +1,3343 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Monolit Add-ons\n"
+"POT-Creation-Date: 2020-08-11 05:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: CTHthemes <cththemes@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;_ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: monolit_add_ons"
+
+#: posttypes/cpt-testimonial.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:22
+msgid "Testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:23 posttypes/cpt-testimonial.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:25
+msgid "Edit Testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:26
+msgid "New Testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:27
+msgid "View Testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:28
+msgid "Search Testimonials"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:29
+msgid "No Testimonials found"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:30
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:31
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:32
+msgid "Monolit Testimonials"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:38
+msgid "List Testimonials"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:51
+msgid "cth_testimonial"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:60 posttypes/cpt-members.php:78 
+#: posttypes/cpt-service.php:65 posttypes/cpt-portfolio.php:117 
+#: posttypes/cpt-portfolio.php:137 posttypes/cpt-header.php:49 
+#: posttypes/cpt-project.php:96 posttypes/cpt-project.php:118 
+#: posttypes/cpt-footer.php:49 posttypes/cpt-plans.php:62 
+#: posttypes/cpt-timeline.php:65 includes/class-cpt.php:6 
+#: includes/class-cpt.php:23 includes/cmb2-init.php:503 
+#: includes/vc_elements/services.php:29 
+#: includes/vc_elements/blog_parallax.php:33 
+#: includes/vc_elements/portfolios_masonry.php:27 
+#: includes/vc_elements/portfolios_masonry.php:80 
+#: includes/vc_elements/timelines.php:29 includes/vc_elements/blog_grid.php:33 
+#: includes/vc_elements/members_parallax.php:28 
+#: includes/vc_elements/portfolios_parallax.php:34 
+#: includes/vc_elements/testimonials.php:29
+msgid "ID"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:61
+msgid "Rating"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:62 posttypes/cpt-members.php:79 
+#: posttypes/cpt-service.php:66 posttypes/cpt-portfolio.php:138 
+#: posttypes/cpt-header.php:50 posttypes/cpt-project.php:95 
+#: posttypes/cpt-footer.php:50 posttypes/cpt-timeline.php:66
+msgid "Thumbnail"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:91
+msgid "Not Rated"
+msgstr ""
+
+#: posttypes/cpt-testimonial.php:121 posttypes/cpt-plans.php:104
+msgid "Add Social"
+msgstr ""
+
+#: posttypes/cpt-members.php:39
+msgid "Members"
+msgstr ""
+
+#: posttypes/cpt-members.php:40
+msgid "Cth_Member"
+msgstr ""
+
+#: posttypes/cpt-members.php:41 posttypes/cpt-members.php:42
+msgid "Add New Member"
+msgstr ""
+
+#: posttypes/cpt-members.php:43
+msgid "Edit Member"
+msgstr ""
+
+#: posttypes/cpt-members.php:44
+msgid "New Member"
+msgstr ""
+
+#: posttypes/cpt-members.php:45
+msgid "View Member"
+msgstr ""
+
+#: posttypes/cpt-members.php:46
+msgid "Search Members"
+msgstr ""
+
+#: posttypes/cpt-members.php:47
+msgid "No Members found"
+msgstr ""
+
+#: posttypes/cpt-members.php:48
+msgid "No Members found in Trash"
+msgstr ""
+
+#: posttypes/cpt-members.php:49
+msgid "Parent Member:"
+msgstr ""
+
+#: posttypes/cpt-members.php:50
+msgid "Monolit Members"
+msgstr ""
+
+#: posttypes/cpt-members.php:69
+msgid "monolit_member"
+msgstr ""
+
+#: posttypes/cpt-service.php:25 posttypes/cpt-service.php:26
+msgid "Service"
+msgstr ""
+
+#: posttypes/cpt-service.php:27 posttypes/cpt-service.php:28
+msgid "Add New Service"
+msgstr ""
+
+#: posttypes/cpt-service.php:29
+msgid "Edit Service"
+msgstr ""
+
+#: posttypes/cpt-service.php:30
+msgid "New Service"
+msgstr ""
+
+#: posttypes/cpt-service.php:31
+msgid "View Service"
+msgstr ""
+
+#: posttypes/cpt-service.php:32
+msgid "Search Services"
+msgstr ""
+
+#: posttypes/cpt-service.php:33
+msgid "No Services found"
+msgstr ""
+
+#: posttypes/cpt-service.php:34
+msgid "No Services found in Trash"
+msgstr ""
+
+#: posttypes/cpt-service.php:35
+msgid "Parent Service:"
+msgstr ""
+
+#: posttypes/cpt-service.php:36
+msgid "Monolit Services"
+msgstr ""
+
+#: posttypes/cpt-service.php:55
+msgid "monolit_service"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:50 posttypes/cpt-portfolio.php:51
+msgid "Portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:52 posttypes/cpt-portfolio.php:53
+msgid "Add New Portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:54
+msgid "Edit Portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:55
+msgid "New Portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:56
+msgid "View Portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:57
+msgid "Search Portfolios"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:58
+msgid "No Portfolios found"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:59
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:60
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:61
+msgid "Monolit Portfolios"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:81
+msgid "portfolio"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:90 posttypes/cpt-portfolio.php:100
+msgid "Categories"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:91 posttypes/cpt-project.php:57
+msgid "Category"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:92 posttypes/cpt-project.php:58
+msgid "Search Categories"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:93 posttypes/cpt-project.php:59
+msgid "All Categories"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:94 posttypes/cpt-project.php:60
+msgid "Parent Category"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:95 posttypes/cpt-project.php:61
+msgid "Parent Category:"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:96 posttypes/cpt-project.php:62
+msgid "Edit Category"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:97 posttypes/cpt-project.php:63
+msgid "Update Category"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:98 posttypes/cpt-project.php:64
+msgid "Add New Category"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:99 posttypes/cpt-project.php:65
+msgid "New Category Name"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:111
+msgid "portfolio_cat"
+msgstr ""
+
+#: posttypes/cpt-portfolio.php:159
+msgctxt "portfolio url slug"
+msgid "portfolio"
+msgstr ""
+
+#: posttypes/cpt-header.php:10 posttypes/cpt-header.php:11
+msgid "Monolit Header"
+msgstr ""
+
+#: posttypes/cpt-header.php:12 posttypes/cpt-header.php:13
+msgid "Add New Monolit Header"
+msgstr ""
+
+#: posttypes/cpt-header.php:14
+msgid "Edit Monolit Header"
+msgstr ""
+
+#: posttypes/cpt-header.php:15
+msgid "New Monolit Header"
+msgstr ""
+
+#: posttypes/cpt-header.php:16
+msgid "View Monolit Header"
+msgstr ""
+
+#: posttypes/cpt-header.php:17
+msgid "Search Monolit Headers"
+msgstr ""
+
+#: posttypes/cpt-header.php:18
+msgid "No Monolit Headers found"
+msgstr ""
+
+#: posttypes/cpt-header.php:19
+msgid "No Monolit Headers found in Trash"
+msgstr ""
+
+#: posttypes/cpt-header.php:20
+msgid "Parent Monolit Header:"
+msgstr ""
+
+#: posttypes/cpt-header.php:21
+msgid "Monolit Headers"
+msgstr ""
+
+#: posttypes/cpt-header.php:27
+msgid "List Monolit Headers"
+msgstr ""
+
+#: posttypes/cpt-project.php:7 posttypes/cpt-project.php:8
+msgid "Monolit Project"
+msgstr ""
+
+#: posttypes/cpt-project.php:9 posttypes/cpt-project.php:10
+msgid "Add New Project"
+msgstr ""
+
+#: posttypes/cpt-project.php:11
+msgid "Edit Project"
+msgstr ""
+
+#: posttypes/cpt-project.php:12
+msgid "New Project"
+msgstr ""
+
+#: posttypes/cpt-project.php:13
+msgid "View Project"
+msgstr ""
+
+#: posttypes/cpt-project.php:14
+msgid "Search Projects"
+msgstr ""
+
+#: posttypes/cpt-project.php:15
+msgid "No Menus found"
+msgstr ""
+
+#: posttypes/cpt-project.php:16
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: posttypes/cpt-project.php:17
+msgid "Parent Projects:"
+msgstr ""
+
+#: posttypes/cpt-project.php:18
+msgid "Monolit Projects"
+msgstr ""
+
+#: posttypes/cpt-project.php:38
+msgid "project"
+msgstr ""
+
+#: posttypes/cpt-project.php:56 posttypes/cpt-project.php:66
+msgid "Project Categories"
+msgstr ""
+
+#: posttypes/cpt-project.php:78
+msgid "project_cat"
+msgstr ""
+
+#: posttypes/cpt-project.php:94 posttypes/cpt-plans.php:63
+msgid "Price"
+msgstr ""
+
+#: posttypes/cpt-footer.php:10 posttypes/cpt-footer.php:11
+msgid "Monolit Footer"
+msgstr ""
+
+#: posttypes/cpt-footer.php:12 posttypes/cpt-footer.php:13
+msgid "Add New Monolit Footer"
+msgstr ""
+
+#: posttypes/cpt-footer.php:14
+msgid "Edit Monolit Footer"
+msgstr ""
+
+#: posttypes/cpt-footer.php:15
+msgid "New Monolit Footer"
+msgstr ""
+
+#: posttypes/cpt-footer.php:16
+msgid "View Monolit Footer"
+msgstr ""
+
+#: posttypes/cpt-footer.php:17
+msgid "Search Monolit Footers"
+msgstr ""
+
+#: posttypes/cpt-footer.php:18
+msgid "No Monolit Footers found"
+msgstr ""
+
+#: posttypes/cpt-footer.php:19
+msgid "No Monolit Footers found in Trash"
+msgstr ""
+
+#: posttypes/cpt-footer.php:20
+msgid "Parent Monolit Footer:"
+msgstr ""
+
+#: posttypes/cpt-footer.php:21
+msgid "Monolit Footers"
+msgstr ""
+
+#: posttypes/cpt-footer.php:27
+msgid "List Monolit Footers"
+msgstr ""
+
+#: posttypes/cpt-plans.php:21 posttypes/cpt-plans.php:22
+msgid "Plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:23 posttypes/cpt-plans.php:24
+msgid "Add New Plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:25
+msgid "Edit Plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:26
+msgid "New Plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:27
+msgid "View Plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:28
+msgid "Search Plans"
+msgstr ""
+
+#: posttypes/cpt-plans.php:29
+msgid "No Plans found"
+msgstr ""
+
+#: posttypes/cpt-plans.php:30
+msgid "No Plans found in Trash"
+msgstr ""
+
+#: posttypes/cpt-plans.php:31
+msgid "Parent Plan:"
+msgstr ""
+
+#: posttypes/cpt-plans.php:32
+msgid "Listing Plans"
+msgstr ""
+
+#: posttypes/cpt-plans.php:52
+msgid "plan"
+msgstr ""
+
+#: posttypes/cpt-plans.php:64
+msgid "Subscribes Count"
+msgstr ""
+
+#: posttypes/cpt-plans.php:148
+msgid "Invalid create stripe form"
+msgstr ""
+
+#: posttypes/cpt-plans.php:156 includes/class-ajax-handler.php:35
+msgid "Security checked!, Cheatn huh?"
+msgstr ""
+
+#: posttypes/cpt-plans.php:164
+msgid "Invalid listing plan ID"
+msgstr ""
+
+#: posttypes/cpt-plans.php:195
+msgid "There is something wrong. Please try again."
+msgstr ""
+
+#: posttypes/cpt-plans.php:220
+msgid "Icon"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:25 posttypes/cpt-timeline.php:26
+msgid "Timeline"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:27 posttypes/cpt-timeline.php:28
+msgid "Add New Timeline"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:29
+msgid "Edit Timeline"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:30
+msgid "New Timeline"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:31
+msgid "View Timeline"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:32
+msgid "Search Timelines"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:33
+msgid "No Timelines found"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:34
+msgid "No Timelines found in Trash"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:35
+msgid "Parent Timeline:"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:36
+msgid "Monolit Timelines"
+msgstr ""
+
+#: posttypes/cpt-timeline.php:55
+msgid "monolit_timeline"
+msgstr ""
+
+#: includes/class-cpt.php:87 includes/class-options.php:91
+msgid "Default title"
+msgstr ""
+
+#: includes/option_values.php:12
+msgid "Style Options"
+msgstr ""
+
+#: includes/option_values.php:19
+msgid "Default Header Style"
+msgstr ""
+
+#: includes/option_values.php:28
+msgid "Default Footer Style"
+msgstr ""
+
+#: includes/option_values.php:46
+msgid "Mailchimp Section"
+msgstr ""
+
+#: includes/option_values.php:53
+msgid "Mailchimp API key"
+msgstr ""
+
+#: includes/option_values.php:54 includes/option_values.php:149
+msgid "Find your API key"
+msgstr ""
+
+#: includes/option_values.php:60
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: includes/option_values.php:61
+msgid "Find your list ID"
+msgstr ""
+
+#: includes/option_values.php:68
+msgid "Subscribe Shortcode"
+msgstr ""
+
+#: includes/option_values.php:69
+msgid ""
+"Use the <code><strong>[monolit_subscribe]</strong></code> shortcode  to "
+"display subscribe form inside a post, page or text widget.\n"
+"<br />Available Variables:<br />\n"
+"<code><strong>message</strong></code> (Optional) - The message above "
+"subscription form.<br />\n"
+"<code><strong>placeholder</strong></code> (Optional) - The form placeholder "
+"text.<br />\n"
+"<code><strong>button</strong></code> (Optional) - The submit button text.<br "
+"/>\n"
+"<code><strong>list_id</strong></code> (Optional) - List ID. If you want user "
+"subscribe to a different list from the option above.<br />\n"
+"<code><strong>class</strong></code> (Optional) - Your extraclass used to "
+"style the form.<br /><br />\n"
+"Example: <code><strong>[monolit_subscribe list_id=\"b02fb5f96f\" "
+"class=\"your_class_here\"]</strong></code>"
+msgstr ""
+
+#: includes/option_values.php:83
+msgid "Twitter Feeds Section"
+msgstr ""
+
+#: includes/option_values.php:85
+msgid "Visit "
+msgstr ""
+
+#: includes/option_values.php:86
+msgid "Twitter's Application Management"
+msgstr ""
+
+#: includes/option_values.php:87
+msgid ""
+"page, sign in with your account, click on Create a new application and "
+"create your own keys if you haven't one.<br /> Fill all the fields bellow "
+"with those keys."
+msgstr ""
+
+#: includes/option_values.php:96
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/option_values.php:103
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/option_values.php:110
+msgid "Access Token"
+msgstr ""
+
+#: includes/option_values.php:117 includes/option_values.php:124
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/option_values.php:125
+msgid ""
+"You can use <code><strong>monolit Twitter Feed</strong></code> widget or  "
+"<code><strong>[monolit_tweets]</strong></code> shortcode  to display tweets "
+"inside a post, page or text widget.\n"
+"<br />Available Variables:<br />\n"
+"<code><strong>username</strong></code> (Optional) - Option to load tweets "
+"from another account. Leave this empty to load from your own.<br />\n"
+"<code><strong>list</strong></code> (Optional) - List name to load tweets "
+"from. If you define list name you also must define the <strong>"
+"username</strong> of the list owner.<br />\n"
+"<code><strong>hashtag</strong></code> (Optional) - Option to load tweets "
+"with a specific hashtag.<br />\n"
+"<code><strong>count</strong></code> (Required) - Number of tweets you want "
+"to display.<br />\n"
+"<code><strong>list_ticker</strong></code> (Optional) - Display tweets as a "
+"list ticker?. Values: <strong>yes</strong> or <strong>no</strong><br />\n"
+"<code><strong>follow_url</strong></code> (Optional) - Follow us link.<br />\n"
+"<code><strong>extraclass</strong></code> (Optional) - Your extraclass used "
+"to style the form.<br /><br />\n"
+"Example: <code><strong>[monolit_tweets count=\"3\" username=\"CTHthemes\" "
+"list_ticker=\"no\" extraclass=\"your_class_here\"]</strong></code>"
+msgstr ""
+
+#: includes/option_values.php:141
+msgid "Weather Section"
+msgstr ""
+
+#: includes/option_values.php:148
+msgid "Weather API key"
+msgstr ""
+
+#: includes/option_values.php:155 includes/option_values.php:161
+msgid "Socials Share"
+msgstr ""
+
+#: includes/option_values.php:162
+msgid ""
+"Enter your social share names separated by a comma.<br /> List bellow are "
+"available names:<strong><br /> facebook,twitter,linkedin,in1,tumblr,digg,"
+"googleplus,reddit,pinterest,stumbleupon,email,vk</strong>"
+msgstr ""
+
+#: includes/option_values.php:177
+msgid "Status"
+msgstr ""
+
+#: includes/option_values.php:184
+msgid "Mode"
+msgstr ""
+
+#: includes/option_values.php:188
+msgid "Disable"
+msgstr ""
+
+#: includes/option_values.php:190
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/option_values.php:226
+msgid "Coming Soon Options"
+msgstr ""
+
+#: includes/option_values.php:232
+msgid "Message"
+msgstr ""
+
+#: includes/option_values.php:243
+msgid "Owner Email"
+msgstr ""
+
+#: includes/option_values.php:254
+msgid "Coming Soon Date"
+msgstr ""
+
+#: includes/option_values.php:258
+msgid "The date should be DD/MM/YYYY format. Ex: 09/12/2021"
+msgstr ""
+
+#: includes/option_values.php:264
+msgid "Coming Soon Time"
+msgstr ""
+
+#: includes/option_values.php:268
+msgid "The time should be hh:mm:ss format. Ex: 10:30:00"
+msgstr ""
+
+#: includes/option_values.php:275
+msgid "Timezone Offset"
+msgstr ""
+
+#: includes/option_values.php:282
+msgid "Timezone offset value from UTC"
+msgstr ""
+
+#: includes/option_values.php:288
+msgid "Message After"
+msgstr ""
+
+#: includes/option_values.php:300
+msgid "Background"
+msgstr ""
+
+#: includes/cmb2-init.php:60
+msgid "Post Format Options"
+msgstr ""
+
+#: includes/cmb2-init.php:70
+msgid "Post Slider Images"
+msgstr ""
+
+#: includes/cmb2-init.php:71
+msgid "These images will be use in Gallery post format only."
+msgstr ""
+
+#: includes/cmb2-init.php:86
+msgid "oEmbed for Post Format"
+msgstr ""
+
+#: includes/cmb2-init.php:87
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#: includes/cmb2-init.php:99
+msgid "Post Layout Options"
+msgstr ""
+
+#: includes/cmb2-init.php:109 includes/cmb2-init.php:273 
+#: includes/cmb2-init.php:316 includes/cmb2-init.php:654 
+#: includes/cmb2-init.php:792 posttypes/tax-meta/tag_metabox_fields.php:13 
+#: posttypes/tax-meta/tag_metabox_fields.php:67 
+#: posttypes/tax-meta/category_metabox_fields.php:13 
+#: posttypes/tax-meta/category_metabox_fields.php:66 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:14 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:59
+msgid "Fullwidth Navigation Menu"
+msgstr ""
+
+#: includes/cmb2-init.php:116 includes/cmb2-init.php:129 
+#: includes/cmb2-init.php:142 includes/cmb2-init.php:155 
+#: includes/cmb2-init.php:280 includes/cmb2-init.php:293 
+#: includes/cmb2-init.php:323 includes/cmb2-init.php:336 
+#: includes/cmb2-init.php:349 includes/cmb2-init.php:362 
+#: includes/cmb2-init.php:405 includes/cmb2-init.php:433 
+#: includes/cmb2-init.php:443 includes/cmb2-init.php:565 
+#: includes/cmb2-init.php:578 includes/cmb2-init.php:661 
+#: includes/cmb2-init.php:675 includes/cmb2-init.php:689 
+#: includes/cmb2-init.php:702 includes/cmb2-init.php:800 
+#: includes/cmb2-init.php:813 includes/cmb2-init.php:838 
+#: includes/vc-elements.php:223 includes/vc-elements.php:243 
+#: includes/vc-elements.php:262 includes/vc-elements.php:327 
+#: includes/vc-elements.php:361 includes/vc-elements.php:379 
+#: includes/vc-elements.php:397 includes/vc-elements.php:416 
+#: includes/vc-elements.php:435 includes/vc-elements.php:454 
+#: includes/vc-elements.php:473 includes/vc-elements.php:491 
+#: includes/vc-elements.php:623 posttypes/tax-meta/tag_metabox_fields.php:16 
+#: posttypes/tax-meta/tag_metabox_fields.php:25 
+#: posttypes/tax-meta/tag_metabox_fields.php:35 
+#: posttypes/tax-meta/tag_metabox_fields.php:45 
+#: posttypes/tax-meta/tag_metabox_fields.php:70 
+#: posttypes/tax-meta/tag_metabox_fields.php:79 
+#: posttypes/tax-meta/tag_metabox_fields.php:90 
+#: posttypes/tax-meta/tag_metabox_fields.php:100 
+#: posttypes/tax-meta/category_metabox_fields.php:16 
+#: posttypes/tax-meta/category_metabox_fields.php:25 
+#: posttypes/tax-meta/category_metabox_fields.php:35 
+#: posttypes/tax-meta/category_metabox_fields.php:45 
+#: posttypes/tax-meta/category_metabox_fields.php:69 
+#: posttypes/tax-meta/category_metabox_fields.php:78 
+#: posttypes/tax-meta/category_metabox_fields.php:89 
+#: posttypes/tax-meta/category_metabox_fields.php:99 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:17 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:26 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:37 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:62 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:71 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:83 
+#: includes/vc_elements/carousel_multiimgs.php:37 
+#: includes/vc_elements/carousel_multiimgs.php:55 
+#: includes/vc_elements/carousel_multiimgs.php:67 
+#: includes/vc_elements/carousel_multiimgs.php:78 
+#: includes/vc_elements/carousel_multiimgs.php:89 
+#: includes/vc_elements/carousel_multiimgs.php:123 
+#: includes/vc_elements/carousel_multiimgs.php:171 
+#: includes/vc_elements/blog_parallax.php:70 
+#: includes/vc_elements/member.php:75 includes/vc_elements/member.php:87 
+#: includes/vc_elements/portfolios_masonry.php:53 
+#: includes/vc_elements/portfolios_masonry.php:169 
+#: includes/vc_elements/portfolios_masonry.php:183 
+#: includes/vc_elements/portfolios_masonry.php:196 
+#: includes/vc_elements/portfolios_masonry.php:210 
+#: includes/vc_elements/portfolios_masonry.php:222 
+#: includes/vc_elements/home_landing.php:51 
+#: includes/vc_elements/home_landing.php:63 
+#: includes/vc_elements/blog_grid.php:70 
+#: includes/vc_elements/members_parallax.php:76 
+#: includes/vc_elements/members_parallax.php:90 
+#: includes/vc_elements/members_parallax.php:104 
+#: includes/vc_elements/members_parallax.php:116 
+#: includes/vc_elements/portfolios_parallax.php:83 
+#: includes/vc_elements/portfolios_parallax.php:97 
+#: includes/vc_elements/portfolios_parallax.php:110 
+#: includes/vc_elements/portfolios_parallax.php:124 
+#: includes/vc_elements/portfolios_parallax.php:146 
+#: includes/vc_elements/portfolio_nav.php:22 
+#: includes/vc_elements/portfolio_nav.php:36 
+#: includes/vc_elements/home_vimeo.php:61 
+#: includes/vc_elements/home_vimeo.php:72 
+#: includes/vc_elements/testimonials.php:61 
+#: includes/vc_elements/testimonials.php:81 
+#: includes/vc_elements/testimonials.php:100 
+#: includes/vc_elements/testimonials.php:112 
+#: includes/vc_elements/testimonials.php:123 
+#: includes/vc_elements/testimonials.php:134 
+#: includes/vc_elements/testimonials.php:167 
+#: includes/vc_elements/home_youtube.php:64 
+#: includes/vc_elements/home_youtube.php:75 includes/vc_elements/gmap.php:77 
+#: includes/vc_elements/home_slider.php:83 
+#: includes/vc_elements/home_slider.php:102 
+#: includes/vc_elements/home_slider.php:113 
+#: includes/vc_elements/home_slider.php:147
+msgid "No"
+msgstr ""
+
+#: includes/cmb2-init.php:117 includes/cmb2-init.php:128 
+#: includes/cmb2-init.php:141 includes/cmb2-init.php:154 
+#: includes/cmb2-init.php:281 includes/cmb2-init.php:294 
+#: includes/cmb2-init.php:324 includes/cmb2-init.php:335 
+#: includes/cmb2-init.php:348 includes/cmb2-init.php:361 
+#: includes/cmb2-init.php:404 includes/cmb2-init.php:432 
+#: includes/cmb2-init.php:442 includes/cmb2-init.php:566 
+#: includes/cmb2-init.php:579 includes/cmb2-init.php:662 
+#: includes/cmb2-init.php:674 includes/cmb2-init.php:688 
+#: includes/cmb2-init.php:701 includes/cmb2-init.php:799 
+#: includes/cmb2-init.php:812 includes/cmb2-init.php:837 
+#: includes/vc-elements.php:222 includes/vc-elements.php:242 
+#: includes/vc-elements.php:261 includes/vc-elements.php:328 
+#: includes/vc-elements.php:362 includes/vc-elements.php:380 
+#: includes/vc-elements.php:398 includes/vc-elements.php:415 
+#: includes/vc-elements.php:434 includes/vc-elements.php:453 
+#: includes/vc-elements.php:472 includes/vc-elements.php:492 
+#: includes/vc-elements.php:622 posttypes/tax-meta/tag_metabox_fields.php:15 
+#: posttypes/tax-meta/tag_metabox_fields.php:24 
+#: posttypes/tax-meta/tag_metabox_fields.php:34 
+#: posttypes/tax-meta/tag_metabox_fields.php:44 
+#: posttypes/tax-meta/tag_metabox_fields.php:69 
+#: posttypes/tax-meta/tag_metabox_fields.php:78 
+#: posttypes/tax-meta/tag_metabox_fields.php:89 
+#: posttypes/tax-meta/tag_metabox_fields.php:99 
+#: posttypes/tax-meta/category_metabox_fields.php:15 
+#: posttypes/tax-meta/category_metabox_fields.php:24 
+#: posttypes/tax-meta/category_metabox_fields.php:34 
+#: posttypes/tax-meta/category_metabox_fields.php:44 
+#: posttypes/tax-meta/category_metabox_fields.php:68 
+#: posttypes/tax-meta/category_metabox_fields.php:77 
+#: posttypes/tax-meta/category_metabox_fields.php:88 
+#: posttypes/tax-meta/category_metabox_fields.php:98 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:16 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:25 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:36 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:61 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:70 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:82 
+#: includes/vc_elements/carousel_multiimgs.php:38 
+#: includes/vc_elements/carousel_multiimgs.php:56 
+#: includes/vc_elements/carousel_multiimgs.php:66 
+#: includes/vc_elements/carousel_multiimgs.php:79 
+#: includes/vc_elements/carousel_multiimgs.php:90 
+#: includes/vc_elements/carousel_multiimgs.php:122 
+#: includes/vc_elements/carousel_multiimgs.php:170 
+#: includes/vc_elements/blog_parallax.php:69 
+#: includes/vc_elements/member.php:76 includes/vc_elements/member.php:88 
+#: includes/vc_elements/portfolios_masonry.php:52 
+#: includes/vc_elements/portfolios_masonry.php:168 
+#: includes/vc_elements/portfolios_masonry.php:182 
+#: includes/vc_elements/portfolios_masonry.php:197 
+#: includes/vc_elements/portfolios_masonry.php:209 
+#: includes/vc_elements/portfolios_masonry.php:221 
+#: includes/vc_elements/home_landing.php:50 
+#: includes/vc_elements/home_landing.php:62 
+#: includes/vc_elements/blog_grid.php:69 
+#: includes/vc_elements/members_parallax.php:75 
+#: includes/vc_elements/members_parallax.php:91 
+#: includes/vc_elements/members_parallax.php:103 
+#: includes/vc_elements/members_parallax.php:115 
+#: includes/vc_elements/portfolios_parallax.php:82 
+#: includes/vc_elements/portfolios_parallax.php:96 
+#: includes/vc_elements/portfolios_parallax.php:111 
+#: includes/vc_elements/portfolios_parallax.php:123 
+#: includes/vc_elements/portfolios_parallax.php:145 
+#: includes/vc_elements/portfolio_nav.php:23 
+#: includes/vc_elements/portfolio_nav.php:37 
+#: includes/vc_elements/home_vimeo.php:60 
+#: includes/vc_elements/home_vimeo.php:71 
+#: includes/vc_elements/testimonials.php:62 
+#: includes/vc_elements/testimonials.php:82 
+#: includes/vc_elements/testimonials.php:99 
+#: includes/vc_elements/testimonials.php:111 
+#: includes/vc_elements/testimonials.php:124 
+#: includes/vc_elements/testimonials.php:135 
+#: includes/vc_elements/testimonials.php:168 
+#: includes/vc_elements/home_youtube.php:63 
+#: includes/vc_elements/home_youtube.php:74 includes/vc_elements/gmap.php:78 
+#: includes/vc_elements/home_slider.php:84 
+#: includes/vc_elements/home_slider.php:103 
+#: includes/vc_elements/home_slider.php:114 
+#: includes/vc_elements/home_slider.php:146
+msgid "Yes"
+msgstr ""
+
+#: includes/cmb2-init.php:122
+msgid "Show Post Header"
+msgstr ""
+
+#: includes/cmb2-init.php:135
+msgid "Show Post Title"
+msgstr ""
+
+#: includes/cmb2-init.php:148 includes/cmb2-init.php:695
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/cmb2-init.php:161 includes/cmb2-init.php:368 
+#: includes/cmb2-init.php:708
+msgid "Header Video Background"
+msgstr ""
+
+#: includes/cmb2-init.php:162 includes/cmb2-init.php:369 
+#: includes/cmb2-init.php:709
+msgid ""
+"Please enter your Youtube video ID (ex: oDpSPNIozt8 ) here to use header "
+"background video feature or leave empty to use header background image "
+"selected bellow."
+msgstr ""
+
+#: includes/cmb2-init.php:169 includes/cmb2-init.php:376 
+#: includes/cmb2-init.php:716
+msgid ""
+"Header Image Background (Main background for Home Landing Page template)"
+msgstr ""
+
+#: includes/cmb2-init.php:182
+msgid "Header Additional Info"
+msgstr ""
+
+#: includes/cmb2-init.php:191 includes/cmb2-init.php:730
+msgid "Single Layout"
+msgstr ""
+
+#: includes/cmb2-init.php:192 includes/cmb2-init.php:731
+msgid "Choose display layout for this post"
+msgstr ""
+
+#: includes/cmb2-init.php:198 includes/cmb2-init.php:737
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/cmb2-init.php:199 includes/cmb2-init.php:738
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/cmb2-init.php:200 includes/cmb2-init.php:739
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/cmb2-init.php:212
+msgid "Portfolio List Options"
+msgstr ""
+
+#: includes/cmb2-init.php:222
+msgid "Video Link"
+msgstr ""
+
+#: includes/cmb2-init.php:223
+msgid ""
+"Enter a youtube, twitter, or instagram URL to display video as a thumbnail. "
+"Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\" "
+"target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: includes/cmb2-init.php:229
+msgid "Masonry Size"
+msgstr ""
+
+#: includes/cmb2-init.php:230
+msgid ""
+"Choose the size of item thumbnail that show in portfolio masonry grid. You "
+"must select a Feature image for this portfolio item."
+msgstr ""
+
+#: includes/cmb2-init.php:236
+msgid "Size One"
+msgstr ""
+
+#: includes/cmb2-init.php:238
+msgid "Size Two"
+msgstr ""
+
+#: includes/cmb2-init.php:239
+msgid "Size Three"
+msgstr ""
+
+#: includes/cmb2-init.php:245
+msgid "Popup Image or Video"
+msgstr ""
+
+#: includes/cmb2-init.php:246
+msgid ""
+"Select image or Youtube, Vimeo video link for popup. Leave empty for single "
+"portfolio page link."
+msgstr ""
+
+#: includes/cmb2-init.php:263
+msgid "Portfolio Layout Options"
+msgstr ""
+
+#: includes/cmb2-init.php:286 includes/cmb2-init.php:397 
+#: posttypes/tax-meta/tag_metabox_fields.php:42 
+#: posttypes/tax-meta/tag_metabox_fields.php:97 
+#: posttypes/tax-meta/category_metabox_fields.php:42 
+#: posttypes/tax-meta/category_metabox_fields.php:96 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:34 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:80
+msgid "Show Content Footer"
+msgstr ""
+
+#: includes/cmb2-init.php:306
+msgid "Page Layout Options"
+msgstr ""
+
+#: includes/cmb2-init.php:329
+msgid "Show Page Header"
+msgstr ""
+
+#: includes/cmb2-init.php:342
+msgid "Show Page Title"
+msgstr ""
+
+#: includes/cmb2-init.php:355
+msgid "Shows Breadcrumbs"
+msgstr ""
+
+#: includes/cmb2-init.php:389
+msgid "Header Additional Info  (Main Title for Home Landing Page template)"
+msgstr ""
+
+#: includes/cmb2-init.php:417
+msgid "Portfolio Page Template Options"
+msgstr ""
+
+#: includes/cmb2-init.php:427
+msgid "Show Filter (for Portfolio template only)"
+msgstr ""
+
+#: includes/cmb2-init.php:437
+msgid "Show Counter"
+msgstr ""
+
+#: includes/cmb2-init.php:448
+msgid "Show Info (for Portfolio Grid and Masonry templates)"
+msgstr ""
+
+#: includes/cmb2-init.php:455 includes/vc_elements/portfolios_masonry.php:136
+msgid "Show"
+msgstr ""
+
+#: includes/cmb2-init.php:456
+msgid "Show on hover"
+msgstr ""
+
+#: includes/cmb2-init.php:457 includes/vc_elements/portfolios_masonry.php:137 
+#: includes/vc_elements/timelines.php:82 includes/vc_elements/timelines.php:105
+msgid "Hide"
+msgstr ""
+
+#: includes/cmb2-init.php:462
+msgid "Portfolio Categories (for Portfolio template only)"
+msgstr ""
+
+#: includes/cmb2-init.php:463
+msgid ""
+"Select portfolio categories to get items from. For Portfolio page templates "
+"only."
+msgstr ""
+
+#: includes/cmb2-init.php:471
+msgid "Exclude Portfolio Items"
+msgstr ""
+
+#: includes/cmb2-init.php:472
+msgid ""
+"Portfolio ids separated by comma. Include Portfolio Items field must blank."
+msgstr ""
+
+#: includes/cmb2-init.php:479
+msgid "Include Portfolio Items"
+msgstr ""
+
+#: includes/cmb2-init.php:480
+msgid ""
+"Portfolio ids separated by comma. Exclude Portfolio Items field must blank."
+msgstr ""
+
+#: includes/cmb2-init.php:487
+msgid "Items per page (-1 for all)"
+msgstr ""
+
+#: includes/cmb2-init.php:495
+msgid "Order By"
+msgstr ""
+
+#: includes/cmb2-init.php:502 includes/vc_elements/services.php:28 
+#: includes/vc_elements/blog_parallax.php:32 
+#: includes/vc_elements/portfolios_masonry.php:79 
+#: includes/vc_elements/timelines.php:28 includes/vc_elements/blog_grid.php:32 
+#: includes/vc_elements/members_parallax.php:27 
+#: includes/vc_elements/portfolios_parallax.php:33 
+#: includes/vc_elements/testimonials.php:28
+msgid "Date"
+msgstr ""
+
+#: includes/cmb2-init.php:504 includes/vc_elements/services.php:30 
+#: includes/vc_elements/blog_parallax.php:34 
+#: includes/vc_elements/portfolios_masonry.php:81 
+#: includes/vc_elements/timelines.php:30 includes/vc_elements/blog_grid.php:34 
+#: includes/vc_elements/members_parallax.php:29 
+#: includes/vc_elements/portfolios_parallax.php:35 
+#: includes/vc_elements/testimonials.php:30
+msgid "Author"
+msgstr ""
+
+#: includes/cmb2-init.php:505 includes/vc_elements/portfolios_masonry.php:26
+msgid "Name"
+msgstr ""
+
+#: includes/cmb2-init.php:506 includes/vc_elements/services.php:31 
+#: includes/vc_elements/blog_parallax.php:35 
+#: includes/vc_elements/portfolios_masonry.php:82 
+#: includes/vc_elements/home_landing.php:24 
+#: includes/vc_elements/timelines.php:31 includes/vc_elements/blog_grid.php:35 
+#: includes/vc_elements/members_parallax.php:30 
+#: includes/vc_elements/portfolios_parallax.php:36 
+#: includes/vc_elements/testimonials.php:31
+msgid "Title"
+msgstr ""
+
+#: includes/cmb2-init.php:507 includes/vc_elements/services.php:32 
+#: includes/vc_elements/blog_parallax.php:36 
+#: includes/vc_elements/portfolios_masonry.php:83 
+#: includes/vc_elements/timelines.php:32 includes/vc_elements/blog_grid.php:36 
+#: includes/vc_elements/members_parallax.php:31 
+#: includes/vc_elements/portfolios_parallax.php:37 
+#: includes/vc_elements/testimonials.php:32
+msgid "Modified"
+msgstr ""
+
+#: includes/cmb2-init.php:508
+msgid "Random"
+msgstr ""
+
+#: includes/cmb2-init.php:514 includes/vc_elements/services.php:40 
+#: includes/vc_elements/services.php:47 includes/vc_elements/timelines.php:40 
+#: includes/vc_elements/timelines.php:47 
+#: includes/vc_elements/testimonials.php:40 
+#: includes/vc_elements/testimonials.php:47
+msgid "Order"
+msgstr ""
+
+#: includes/cmb2-init.php:521 includes/vc_elements/services.php:43 
+#: includes/vc_elements/blog_parallax.php:48 
+#: includes/vc_elements/portfolios_masonry.php:41 
+#: includes/vc_elements/portfolios_masonry.php:95 
+#: includes/vc_elements/timelines.php:43 includes/vc_elements/blog_grid.php:48 
+#: includes/vc_elements/members_parallax.php:43 
+#: includes/vc_elements/portfolios_parallax.php:49 
+#: includes/vc_elements/testimonials.php:43
+msgid "Descending"
+msgstr ""
+
+#: includes/cmb2-init.php:522 includes/vc_elements/services.php:44 
+#: includes/vc_elements/blog_parallax.php:47 
+#: includes/vc_elements/portfolios_masonry.php:40 
+#: includes/vc_elements/portfolios_masonry.php:94 
+#: includes/vc_elements/timelines.php:44 includes/vc_elements/blog_grid.php:47 
+#: includes/vc_elements/members_parallax.php:42 
+#: includes/vc_elements/portfolios_parallax.php:48 
+#: includes/vc_elements/testimonials.php:44
+msgid "Ascending"
+msgstr ""
+
+#: includes/cmb2-init.php:527
+msgid "Columns Layout (for Portfolio Grid and Masonry templates)"
+msgstr ""
+
+#: includes/cmb2-init.php:535 includes/vc_elements/partners.php:59 
+#: includes/vc_elements/portfolios_masonry.php:123 
+#: includes/vc_elements/images_masonry.php:33
+msgid "Five Columns"
+msgstr ""
+
+#: includes/cmb2-init.php:536 includes/vc_elements/partners.php:58 
+#: includes/vc_elements/services.php:75 
+#: includes/vc_elements/portfolios_masonry.php:122 
+#: includes/vc_elements/images_masonry.php:32
+msgid "Four Columns"
+msgstr ""
+
+#: includes/cmb2-init.php:537 includes/vc_elements/partners.php:57 
+#: includes/vc_elements/services.php:73 
+#: includes/vc_elements/portfolios_masonry.php:121 
+#: includes/vc_elements/images_masonry.php:31
+msgid "Three Columns"
+msgstr ""
+
+#: includes/cmb2-init.php:538 includes/vc_elements/partners.php:56 
+#: includes/vc_elements/services.php:71 
+#: includes/vc_elements/portfolios_masonry.php:120 
+#: includes/vc_elements/images_masonry.php:30
+msgid "Two Columns"
+msgstr ""
+
+#: includes/cmb2-init.php:539 includes/vc_elements/partners.php:55 
+#: includes/vc_elements/services.php:77 
+#: includes/vc_elements/portfolios_masonry.php:119 
+#: includes/vc_elements/images_masonry.php:29
+msgid "One Column"
+msgstr ""
+
+#: includes/cmb2-init.php:544 includes/vc_elements/portfolios_masonry.php:147 
+#: includes/vc_elements/images_masonry.php:42
+msgid "Spacing"
+msgstr ""
+
+#: includes/cmb2-init.php:551 includes/vc_elements/portfolios_masonry.php:150 
+#: includes/vc_elements/images_masonry.php:45
+msgid "Small"
+msgstr ""
+
+#: includes/cmb2-init.php:552 includes/vc_elements/portfolios_masonry.php:151 
+#: includes/vc_elements/images_masonry.php:46
+msgid "Big"
+msgstr ""
+
+#: includes/cmb2-init.php:553 includes/vc-elements.php:15 
+#: includes/core-functions.php:171 includes/core-functions.php:191 
+#: includes/vc_elements/portfolios_masonry.php:30 
+#: includes/vc_elements/portfolios_masonry.php:152 
+#: includes/vc_elements/images_masonry.php:47
+msgid "None"
+msgstr ""
+
+#: includes/cmb2-init.php:558
+msgid "Enable Image Gallery on Portfolio Grid"
+msgstr ""
+
+#: includes/cmb2-init.php:571
+msgid "Disbale Image Overlay Effect"
+msgstr ""
+
+#: includes/cmb2-init.php:592 includes/cmb2-init.php:602
+msgid "Scroll Navigation Menu"
+msgstr ""
+
+#: includes/cmb2-init.php:619
+msgid "Timeline Options"
+msgstr ""
+
+#: includes/cmb2-init.php:629
+msgid "Addition Info"
+msgstr ""
+
+#: includes/cmb2-init.php:630
+msgid "This info will display on the left side, bellow timeline title"
+msgstr ""
+
+#: includes/cmb2-init.php:644
+msgid "Member Layout Options"
+msgstr ""
+
+#: includes/cmb2-init.php:667
+msgid "Show Member Header"
+msgstr ""
+
+#: includes/cmb2-init.php:682
+msgid "Show Member Title"
+msgstr ""
+
+#: includes/cmb2-init.php:748
+msgid "For Monolit Theme Options"
+msgstr ""
+
+#: includes/cmb2-init.php:758
+msgid "Header Image Background"
+msgstr ""
+
+#: includes/cmb2-init.php:774
+msgid "User Profile Metabox"
+msgstr ""
+
+#: includes/cmb2-init.php:784
+msgid "Extra Info"
+msgstr ""
+
+#: includes/cmb2-init.php:806
+msgid "Show User Header"
+msgstr ""
+
+#: includes/cmb2-init.php:819 posttypes/tax-meta/tag_metabox_fields.php:29 
+#: posttypes/tax-meta/tag_metabox_fields.php:84 
+#: posttypes/tax-meta/category_metabox_fields.php:29 
+#: posttypes/tax-meta/category_metabox_fields.php:83 
+#: posttypes/tax-meta/product_tag_metabox_fields.php:12 
+#: posttypes/tax-meta/product_tag_metabox_fields.php:29 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:30 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:76 
+#: posttypes/tax-meta/product_cat_metabox_fields.php:12 
+#: posttypes/tax-meta/product_cat_metabox_fields.php:29
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/cmb2-init.php:831
+msgid "Show User Info Block"
+msgstr ""
+
+#: includes/cmb2-init.php:846
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/cmb2-init.php:854
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/cmb2-init.php:861
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/cmb2-init.php:868
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/cmb2-init.php:876
+msgid "User Field"
+msgstr ""
+
+#: includes/class-ajax-handler.php:51
+msgid "User registration feature is disabled."
+msgstr ""
+
+#: includes/class-ajax-handler.php:59 includes/class-ajax-handler.php:122
+msgid "reCAPTCHA failed, please try again."
+msgstr ""
+
+#: includes/class-ajax-handler.php:95
+msgid "Successfully registered."
+msgstr ""
+
+#: includes/class-ajax-handler.php:146
+msgid "Login success! The page will be reload."
+msgstr ""
+
+#: includes/class-ajax-handler.php:160
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/class-ajax-handler.php:183
+msgid "Almost finished. Please check your email and verify."
+msgstr ""
+
+#: includes/class-ajax-handler.php:186
+msgid "Oops. Something went wrong!"
+msgstr ""
+
+#: includes/class-options.php:203 includes/class-options.php:204
+msgid "Monolit Add-ons"
+msgstr ""
+
+#: includes/class-options.php:357
+msgid "Select Image"
+msgstr ""
+
+#: includes/class-options.php:357 posttypes/tax-meta/cth_taxonomy_fields.php:19
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-options.php:357 posttypes/tax-meta/cth_taxonomy_fields.php:19
+msgid "Remove"
+msgstr ""
+
+#: includes/class-options.php:530
+msgid "Add Field"
+msgstr ""
+
+#: includes/class-options.php:570
+msgid "Add Widget"
+msgstr ""
+
+#: includes/class-options.php:593
+msgid "Currency code"
+msgstr ""
+
+#: includes/class-options.php:594
+msgid "Currency symbol"
+msgstr ""
+
+#: includes/class-options.php:595
+msgid "Currency rate"
+msgstr ""
+
+#: includes/class-options.php:596
+msgid "Current rate"
+msgstr ""
+
+#: includes/class-options.php:597
+msgid "Currency position"
+msgstr ""
+
+#: includes/class-options.php:598
+msgid "Number of decimal"
+msgstr ""
+
+#: includes/class-options.php:599
+msgid "Thousand separator"
+msgstr ""
+
+#: includes/class-options.php:600
+msgid "Decimal separator"
+msgstr ""
+
+#: includes/class-options.php:619
+msgid "Add Currency"
+msgstr ""
+
+#: includes/class-options.php:803
+msgid "Monolit Add-Ons Settings"
+msgstr ""
+
+#: includes/class-options.php:851
+msgid "General"
+msgstr ""
+
+#: includes/class-options.php:854
+msgid "Widgets"
+msgstr ""
+
+#: includes/vc-elements.php:16
+msgid "BounceIn"
+msgstr ""
+
+#: includes/vc-elements.php:17
+msgid "BounceInUp"
+msgstr ""
+
+#: includes/vc-elements.php:18
+msgid "BounceInDown"
+msgstr ""
+
+#: includes/vc-elements.php:19
+msgid "BounceInLeft"
+msgstr ""
+
+#: includes/vc-elements.php:20
+msgid "BounceInRight"
+msgstr ""
+
+#: includes/vc-elements.php:22
+msgid "FadeIn"
+msgstr ""
+
+#: includes/vc-elements.php:23
+msgid "FadeInUp"
+msgstr ""
+
+#: includes/vc-elements.php:24
+msgid "FadeInDown"
+msgstr ""
+
+#: includes/vc-elements.php:25
+msgid "FadeInLeft"
+msgstr ""
+
+#: includes/vc-elements.php:26
+msgid "FadeInRight"
+msgstr ""
+
+#: includes/vc-elements.php:28
+msgid "ZoomIn"
+msgstr ""
+
+#: includes/vc-elements.php:29
+msgid "ZoomInUp"
+msgstr ""
+
+#: includes/vc-elements.php:30
+msgid "ZoomInDown"
+msgstr ""
+
+#: includes/vc-elements.php:31
+msgid "ZoomInLeft"
+msgstr ""
+
+#: includes/vc-elements.php:32
+msgid "ZoomInRight"
+msgstr ""
+
+#: includes/vc-elements.php:34
+msgid "RotateIn"
+msgstr ""
+
+#: includes/vc-elements.php:35
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: includes/vc-elements.php:36
+msgid "RotateInDownRight"
+msgstr ""
+
+#: includes/vc-elements.php:37
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: includes/vc-elements.php:38
+msgid "RotateInUpRight"
+msgstr ""
+
+#: includes/vc-elements.php:90
+msgid "Monolit Predefined Section Layout"
+msgstr ""
+
+#: includes/vc-elements.php:93
+msgid "Visual Composer - Default"
+msgstr ""
+
+#: includes/vc-elements.php:94
+msgid "Monolit Fullheight Section"
+msgstr ""
+
+#: includes/vc-elements.php:95
+msgid "Monolit Page Section"
+msgstr ""
+
+#: includes/vc-elements.php:96
+msgid "Monolit Page Section Dark"
+msgstr ""
+
+#: includes/vc-elements.php:98
+msgid "Monolit Parallax Section - Portfolio Header"
+msgstr ""
+
+#: includes/vc-elements.php:99
+msgid "Monolit Portfolio Horizontal"
+msgstr ""
+
+#: includes/vc-elements.php:100
+msgid "Monolit Portfolio Horizontal 3D"
+msgstr ""
+
+#: includes/vc-elements.php:101
+msgid "Monolit Portfolio Horizontal Style2"
+msgstr ""
+
+#: includes/vc-elements.php:102
+msgid "Monolit Portfolio Fullscreen Slider"
+msgstr ""
+
+#: includes/vc-elements.php:103
+msgid "Monolit Portfolio Fullscreen Video"
+msgstr ""
+
+#: includes/vc-elements.php:104
+msgid "Monolit Portfolio Fullscreen Vimeo Video"
+msgstr ""
+
+#: includes/vc-elements.php:106
+msgid "Select one of the pre made page sections or using default"
+msgstr ""
+
+#: includes/vc-elements.php:107 includes/vc-elements.php:147 
+#: includes/vc-elements.php:162 includes/vc-elements.php:189 
+#: includes/vc-elements.php:214 includes/vc-elements.php:234 
+#: includes/vc-elements.php:254 includes/vc-elements.php:273 
+#: includes/vc-elements.php:289 includes/vc-elements.php:304 
+#: includes/vc-elements.php:319 includes/vc-elements.php:338 
+#: includes/vc-elements.php:353 includes/vc-elements.php:371 
+#: includes/vc-elements.php:389 includes/vc-elements.php:407 
+#: includes/vc-elements.php:426 includes/vc-elements.php:445 
+#: includes/vc-elements.php:464 includes/vc-elements.php:483 
+#: includes/vc-elements.php:501 includes/vc-elements.php:516 
+#: includes/vc-elements.php:534 includes/vc-elements.php:550 
+#: includes/vc-elements.php:566 includes/vc-elements.php:580 
+#: includes/vc-elements.php:599 includes/vc-elements.php:615 
+#: includes/vc-elements.php:635 includes/vc-elements.php:651 
+#: includes/vc-elements.php:664 includes/vc-elements.php:677
+msgid "Monolit Theme"
+msgstr ""
+
+#: includes/vc-elements.php:112
+msgid "No Padding"
+msgstr ""
+
+#: includes/vc-elements.php:134
+msgid "Your Video ID"
+msgstr ""
+
+#: includes/vc-elements.php:137
+msgid "Your Youtube video: oDpSPNIozt8 or Vimeo video: 143243001"
+msgstr ""
+
+#: includes/vc-elements.php:152
+msgid "Video Background Image"
+msgstr ""
+
+#: includes/vc-elements.php:167 includes/vc-elements.php:194 
+#: includes/vc_elements/home_vimeo.php:43 
+#: includes/vc_elements/home_youtube.php:43
+msgid "Video Quality"
+msgstr ""
+
+#: includes/vc-elements.php:197 includes/vc_elements/home_vimeo.php:46
+msgid "4K"
+msgstr ""
+
+#: includes/vc-elements.php:198 includes/vc_elements/home_vimeo.php:47
+msgid "2K"
+msgstr ""
+
+#: includes/vc-elements.php:199 includes/vc_elements/home_vimeo.php:48
+msgid "1080P"
+msgstr ""
+
+#: includes/vc-elements.php:200 includes/vc_elements/home_vimeo.php:49
+msgid "720P"
+msgstr ""
+
+#: includes/vc-elements.php:201 includes/vc_elements/home_vimeo.php:50
+msgid "540P"
+msgstr ""
+
+#: includes/vc-elements.php:202 includes/vc_elements/home_vimeo.php:51
+msgid "360P"
+msgstr ""
+
+#: includes/vc-elements.php:219 includes/vc_elements/home_vimeo.php:57 
+#: includes/vc_elements/home_youtube.php:60
+msgid "Mute"
+msgstr ""
+
+#: includes/vc-elements.php:239 includes/vc-elements.php:357 
+#: includes/vc_elements/carousel_multiimgs.php:51 
+#: includes/vc_elements/home_vimeo.php:68 
+#: includes/vc_elements/testimonials.php:95 
+#: includes/vc_elements/home_slider.php:109
+msgid "Loop"
+msgstr ""
+
+#: includes/vc-elements.php:258
+msgid "Is Header Section"
+msgstr ""
+
+#: includes/vc-elements.php:278
+msgid "Portfolio Images"
+msgstr ""
+
+#: includes/vc-elements.php:293 includes/vc_elements/carousel_multiimgs.php:26 
+#: includes/vc_elements/testimonials.php:70 
+#: includes/vc_elements/home_slider.php:72 
+#: includes/vc_elements/home_slideshow.php:41
+msgid "Items"
+msgstr ""
+
+#: includes/vc-elements.php:295 includes/vc_elements/carousel_multiimgs.php:28 
+#: includes/vc_elements/testimonials.php:72 
+#: includes/vc_elements/home_slider.php:74
+msgid "The number of items you want to see on the screen. Ex: 3"
+msgstr ""
+
+#: includes/vc-elements.php:308
+msgid "Responsive"
+msgstr ""
+
+#: includes/vc-elements.php:310
+msgid ""
+"The format is: screen-size:number-items-display,larger-screen-size:number-"
+"items-display. Ex: 0:1,768:1,992:3,1200:3"
+msgstr ""
+
+#: includes/vc-elements.php:323 includes/vc_elements/carousel_multiimgs.php:33 
+#: includes/vc_elements/carousel_multiimgs.php:145 
+#: includes/vc_elements/parallax_box.php:37 
+#: includes/vc_elements/members_parallax.php:64 
+#: includes/vc_elements/portfolios_parallax.php:71 
+#: includes/vc_elements/testimonials.php:77 
+#: includes/vc_elements/home_slider.php:79
+msgid "Center"
+msgstr ""
+
+#: includes/vc-elements.php:325 includes/vc_elements/carousel_multiimgs.php:35 
+#: includes/vc_elements/testimonials.php:79 
+#: includes/vc_elements/home_slider.php:81
+msgid "Center item. Works well with even an odd number of items."
+msgstr ""
+
+#: includes/vc-elements.php:342 includes/vc_elements/carousel_multiimgs.php:44 
+#: includes/vc_elements/testimonials.php:88 
+#: includes/vc_elements/home_slider.php:90
+msgid "smartSpeed"
+msgstr ""
+
+#: includes/vc-elements.php:345 includes/vc_elements/carousel_multiimgs.php:47 
+#: includes/vc_elements/testimonials.php:91 
+#: includes/vc_elements/home_slider.php:93
+msgid "Speed Calculate, milisecond number. Ex: 250"
+msgstr ""
+
+#: includes/vc-elements.php:375 includes/vc_elements/carousel_multiimgs.php:74 
+#: includes/vc_elements/testimonials.php:119
+msgid "Auto Width"
+msgstr ""
+
+#: includes/vc-elements.php:377 includes/vc_elements/carousel_multiimgs.php:76 
+#: includes/vc_elements/testimonials.php:121
+msgid "Set non grid content. Try using width style on divs."
+msgstr ""
+
+#: includes/vc-elements.php:393 includes/vc_elements/carousel_multiimgs.php:85 
+#: includes/vc_elements/testimonials.php:130 
+#: includes/vc_elements/home_slider.php:98
+msgid "Auto Play"
+msgstr ""
+
+#: includes/vc-elements.php:411
+msgid "Show Zoom Image"
+msgstr ""
+
+#: includes/vc-elements.php:430
+msgid "Show Thumbnails"
+msgstr ""
+
+#: includes/vc-elements.php:449
+msgid "Show Caption"
+msgstr ""
+
+#: includes/vc-elements.php:468
+msgid "Show More Info"
+msgstr ""
+
+#: includes/vc-elements.php:487 includes/vc_elements/carousel_multiimgs.php:62 
+#: includes/vc_elements/testimonials.php:107
+msgid "Auto Height"
+msgstr ""
+
+#: includes/vc-elements.php:506
+msgid "Parallax Background Image"
+msgstr ""
+
+#: includes/vc-elements.php:521
+msgid "Youtube Video ID"
+msgstr ""
+
+#: includes/vc-elements.php:524
+msgid "Your Youtube video: oDpSPNIozt8"
+msgstr ""
+
+#: includes/vc-elements.php:539 includes/vc_elements/home_image.php:47 
+#: includes/vc_elements/home_vimeo.php:90 
+#: includes/vc_elements/home_youtube.php:92 
+#: includes/vc_elements/home_slider.php:162 
+#: includes/vc_elements/home_slideshow.php:73
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/vc-elements.php:542
+msgid "Overlay Opacity value 0.0 - 1. Ex: 0.2 or 0.8 for dark background"
+msgstr ""
+
+#: includes/vc-elements.php:554 includes/vc_elements/home_image.php:24
+msgid "Background Parallax Value"
+msgstr ""
+
+#: includes/vc-elements.php:557 includes/vc_elements/home_slider.php:173 
+#: includes/vc_elements/home_slideshow.php:67
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Background Image "
+"down every time we scroll down 100% of the viewport height and move "
+"Background Image up every time we scroll up 100% of the viewport height. Ex: "
+"300 or -300 for reverse direction."
+msgstr ""
+
+#: includes/vc-elements.php:570 includes/vc-elements.php:573
+msgid "Section Number"
+msgstr ""
+
+#: includes/vc-elements.php:584
+msgid "Section Number Position"
+msgstr ""
+
+#: includes/vc-elements.php:587
+msgid "Right Position"
+msgstr ""
+
+#: includes/vc-elements.php:588
+msgid "Left Position"
+msgstr ""
+
+#: includes/vc-elements.php:590
+msgid "Left or right position"
+msgstr ""
+
+#: includes/vc-elements.php:603
+msgid "Section Number Parallax Value"
+msgstr ""
+
+#: includes/vc-elements.php:606
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Section Number "
+"down every time we scroll down 100% of the viewport height and move Section "
+"Number up every time we scroll up 100% of the viewport height. Ex: 200 or -"
+"200 for reverse direction."
+msgstr ""
+
+#: includes/vc-elements.php:619
+msgid "Use Constellation Animation?"
+msgstr ""
+
+#: includes/vc-elements.php:646
+msgid "CSS Animation"
+msgstr ""
+
+#: includes/vc-elements.php:649
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: includes/vc-elements.php:656
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/vc-elements.php:658 includes/vc-elements.php:671
+msgid "Ex: 0.2s for 200 miliseconds, 2s for 2 second"
+msgstr ""
+
+#: includes/vc-elements.php:669
+msgid "Animation delay"
+msgstr ""
+
+#. Author of the plugin
+#: includes/class-blocks.php:43
+msgid "CTHthemes"
+msgstr ""
+
+#: includes/class-frontend-scripts.php:21
+msgid "Enter Your Keyword ..."
+msgstr ""
+
+#: includes/class-frontend-scripts.php:37
+msgid "Like"
+msgstr ""
+
+#: includes/class-frontend-scripts.php:38
+msgid "Unlike"
+msgstr ""
+
+#: includes/core-functions.php:170 includes/core-functions.php:190 
+#: includes/core-functions.php:275
+msgid "Global"
+msgstr ""
+
+#: includes/core-functions.php:276
+msgid "Skin 1"
+msgstr ""
+
+#: includes/core-functions.php:277
+msgid "Skin 1 - Color"
+msgstr ""
+
+#: includes/core-functions.php:278
+msgid "Skin 2"
+msgstr ""
+
+#: includes/core-functions.php:279
+msgid "Skin 2 - Color"
+msgstr ""
+
+#: includes/core-functions.php:280
+msgid "Skin 3"
+msgstr ""
+
+#: includes/core-functions.php:281
+msgid "Skin 3 - Color"
+msgstr ""
+
+#: includes/core-functions.php:282
+msgid "Skin 4"
+msgstr ""
+
+#: includes/core-functions.php:283
+msgid "Skin 4 - Color"
+msgstr ""
+
+#: includes/core-functions.php:325
+msgid "Facebook"
+msgstr ""
+
+#: includes/core-functions.php:326
+msgid "Twitter"
+msgstr ""
+
+#: includes/core-functions.php:327
+msgid "Youtube"
+msgstr ""
+
+#: includes/core-functions.php:328
+msgid "Vimeo"
+msgstr ""
+
+#: includes/core-functions.php:329
+msgid "Instagram"
+msgstr ""
+
+#: includes/core-functions.php:330
+msgid "Vkontakte"
+msgstr ""
+
+#: includes/core-functions.php:331
+msgid "Reddit"
+msgstr ""
+
+#: includes/core-functions.php:332
+msgid "Pinterest"
+msgstr ""
+
+#: includes/core-functions.php:333
+msgid "Vine Camera"
+msgstr ""
+
+#: includes/core-functions.php:334
+msgid "Tumblr"
+msgstr ""
+
+#: includes/core-functions.php:335
+msgid "Flickr"
+msgstr ""
+
+#: includes/core-functions.php:336
+msgid "Google+"
+msgstr ""
+
+#: includes/core-functions.php:337
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/core-functions.php:338
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/core-functions.php:339
+msgid "Meetup"
+msgstr ""
+
+#: includes/core-functions.php:340
+msgid "Custom"
+msgstr ""
+
+#: includes/core-functions.php:353
+msgid "SHARE: "
+msgstr ""
+
+#: vc_templates/monolit_portfolios_parallax.php:153
+msgid "<span>View Project</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: vc_templates/monolit_portfolios_parallax.php:170
+msgid "<span>View All Projects</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: vc_templates/portfolios_masonry.php:118
+msgid "All"
+msgstr ""
+
+#: vc_templates/members_parallax.php:130
+msgid "<span>View More</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: vc_templates/portfolio_nav.php:38
+msgctxt "Project previous link"
+msgid "Previous Project"
+msgstr ""
+
+#: vc_templates/portfolio_nav.php:44
+msgctxt "Project next link"
+msgid "Next Project"
+msgstr ""
+
+#: vc_templates/vc_row.php:301 vc_templates/vc_row.php:415
+msgid "<span>More information</span><i class=\"fa fa-eye\"></i>"
+msgstr ""
+
+#: vc_templates/vc_row.php:303 vc_templates/vc_row.php:417 
+#: vc_templates/vc_row.php:526
+msgid "Show thumbnails"
+msgstr ""
+
+#: vc_templates/vc_row.php:303 vc_templates/vc_row.php:417 
+#: vc_templates/vc_row.php:526
+msgid "Hide thumbnails"
+msgstr ""
+
+#: vc_templates/vc_row.php:527
+msgid " info"
+msgstr ""
+
+#: vc_templates/vc_row.php:581 vc_templates/vc_row.php:709
+msgid "Info"
+msgstr ""
+
+#: vc_templates/vc_row.php:645 vc_templates/vc_row.php:771 
+#: vc_templates/vc_row.php:830
+msgid "More info"
+msgstr ""
+
+#: widgets/recent-posts.php:26
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/recent-posts.php:27 widgets/recent-posts.php:46
+msgid "Monolit Recent Posts"
+msgstr ""
+
+#: widgets/recent-posts.php:136
+msgid "Title:"
+msgstr ""
+
+#: widgets/recent-posts.php:139
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/recent-posts.php:143
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: widgets/recent-posts.php:146
+msgid "Display post date?"
+msgstr ""
+
+#: posttypes/tax-meta/tag_metabox_fields.php:22 
+#: posttypes/tax-meta/tag_metabox_fields.php:76 
+#: posttypes/tax-meta/category_metabox_fields.php:22 
+#: posttypes/tax-meta/category_metabox_fields.php:75 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:23 
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:68
+msgid "Show Header Section"
+msgstr ""
+
+#: posttypes/tax-meta/tag_metabox_fields.php:32 
+#: posttypes/tax-meta/tag_metabox_fields.php:87
+msgid "Show Tag Info"
+msgstr ""
+
+#: posttypes/tax-meta/category_metabox_fields.php:32 
+#: posttypes/tax-meta/category_metabox_fields.php:86
+msgid "Show Category Info"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:5
+msgid "Piechart"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:6
+msgid "Animated Piechart"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:15
+msgid "Piecharts"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:44
+msgid "Description"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:52 includes/vc_elements/skills_bar.php:52
+msgid "Value"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:54
+msgid "Enter value of piechart."
+msgstr ""
+
+#: includes/vc_elements/piechart.php:62
+msgid "Unit"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:71 includes/vc_elements/partners.php:69 
+#: includes/vc_elements/services.php:60 
+#: includes/vc_elements/carousel_multiimgs.php:132 
+#: includes/vc_elements/counter.php:51 includes/vc_elements/member.php:64 
+#: includes/vc_elements/parallax_box.php:24 
+#: includes/vc_elements/timelines.php:60 
+#: includes/vc_elements/members_parallax.php:126 
+#: includes/vc_elements/portfolios_parallax.php:156 
+#: includes/vc_elements/home_vimeo.php:99 
+#: includes/vc_elements/testimonials.php:178 
+#: includes/vc_elements/home_youtube.php:101 includes/vc_elements/gmap.php:86 
+#: includes/vc_elements/home_slider.php:171 
+#: includes/vc_elements/home_slideshow.php:65
+msgid "Parallax Value"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:73
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Piechart down "
+"every time we scroll down 100% of the viewport height and move Piechart up "
+"every time we scroll up 100% of the viewport height. Ex: 80 or -80 for "
+"reverse direction."
+msgstr ""
+
+#: includes/vc_elements/piechart.php:79
+msgid "Width"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:82 includes/vc_elements/services.php:100 
+#: includes/vc_elements/timelines.php:77 includes/vc_elements/timelines.php:100
+msgid "1/1"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:83 includes/vc_elements/services.php:93 
+#: includes/vc_elements/timelines.php:73 includes/vc_elements/timelines.php:96
+msgid "1/3"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:84 includes/vc_elements/services.php:91 
+#: includes/vc_elements/timelines.php:71 includes/vc_elements/timelines.php:94
+msgid "1/2"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:85 includes/vc_elements/services.php:95 
+#: includes/vc_elements/timelines.php:75 includes/vc_elements/timelines.php:98
+msgid "1/4"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:86 includes/vc_elements/services.php:96 
+#: includes/vc_elements/timelines.php:76 includes/vc_elements/timelines.php:99
+msgid "1/6"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:97
+msgid "Color"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:105
+msgid "Size"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:107
+msgid "Size of the pie chart in px. It will always be a square."
+msgstr ""
+
+#: includes/vc_elements/piechart.php:112
+msgid "Line Width"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:115
+msgid "Width of the chart line in px."
+msgstr ""
+
+#: includes/vc_elements/piechart.php:120 
+#: includes/vc_elements/post_title.php:17 includes/vc_elements/partners.php:77 
+#: includes/vc_elements/services.php:112 
+#: includes/vc_elements/carousel_multiimgs.php:178 
+#: includes/vc_elements/blog_parallax.php:77 
+#: includes/vc_elements/home_image.php:65 includes/vc_elements/member.php:95 
+#: includes/vc_elements/parallax_box.php:44 
+#: includes/vc_elements/portfolios_masonry.php:233 
+#: includes/vc_elements/home_landing.php:70 
+#: includes/vc_elements/timelines.php:114 
+#: includes/vc_elements/blog_grid.php:77 
+#: includes/vc_elements/members_parallax.php:133 
+#: includes/vc_elements/portfolios_parallax.php:163 
+#: includes/vc_elements/skills_bar.php:61 
+#: includes/vc_elements/portfolio_nav.php:52 
+#: includes/vc_elements/home_vimeo.php:107 
+#: includes/vc_elements/testimonials.php:186 
+#: includes/vc_elements/home_youtube.php:109 includes/vc_elements/gmap.php:93 
+#: includes/vc_elements/images_masonry.php:56 
+#: includes/vc_elements/home_slider.php:179
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:122 includes/vc_elements/partners.php:79 
+#: includes/vc_elements/services.php:114 
+#: includes/vc_elements/carousel_multiimgs.php:180 
+#: includes/vc_elements/blog_parallax.php:79 
+#: includes/vc_elements/counter.php:44 includes/vc_elements/home_image.php:67 
+#: includes/vc_elements/member.php:97 includes/vc_elements/parallax_box.php:46 
+#: includes/vc_elements/portfolios_masonry.php:235 
+#: includes/vc_elements/home_landing.php:72 
+#: includes/vc_elements/timelines.php:116 
+#: includes/vc_elements/blog_grid.php:79 
+#: includes/vc_elements/members_parallax.php:135 
+#: includes/vc_elements/portfolios_parallax.php:165 
+#: includes/vc_elements/skills_bar.php:63 
+#: includes/vc_elements/portfolio_nav.php:55 
+#: includes/vc_elements/home_vimeo.php:109 
+#: includes/vc_elements/testimonials.php:188 
+#: includes/vc_elements/home_youtube.php:111 includes/vc_elements/gmap.php:96 
+#: includes/vc_elements/images_masonry.php:59 
+#: includes/vc_elements/home_slider.php:181 
+#: includes/vc_elements/home_slideshow.php:82
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc_elements/piechart.php:126 includes/vc_elements/partners.php:83 
+#: includes/vc_elements/services.php:118 
+#: includes/vc_elements/carousel_multiimgs.php:184 
+#: includes/vc_elements/blog_parallax.php:83 
+#: includes/vc_elements/parallax_box.php:50 
+#: includes/vc_elements/portfolios_masonry.php:239 
+#: includes/vc_elements/home_landing.php:76 
+#: includes/vc_elements/timelines.php:120 
+#: includes/vc_elements/blog_grid.php:83 
+#: includes/vc_elements/members_parallax.php:139 
+#: includes/vc_elements/portfolios_parallax.php:170 
+#: includes/vc_elements/portfolio_nav.php:59 
+#: includes/vc_elements/testimonials.php:192 
+#: includes/vc_elements/images_masonry.php:63 
+#: includes/vc_elements/home_slider.php:185
+msgid "Css"
+msgstr ""
+
+#: includes/vc_elements/piechart.php:128 includes/vc_elements/partners.php:85 
+#: includes/vc_elements/services.php:120 
+#: includes/vc_elements/carousel_multiimgs.php:186 
+#: includes/vc_elements/blog_parallax.php:85 
+#: includes/vc_elements/parallax_box.php:52 
+#: includes/vc_elements/portfolios_masonry.php:241 
+#: includes/vc_elements/home_landing.php:78 
+#: includes/vc_elements/timelines.php:122 
+#: includes/vc_elements/blog_grid.php:85 
+#: includes/vc_elements/members_parallax.php:141 
+#: includes/vc_elements/portfolios_parallax.php:172 
+#: includes/vc_elements/portfolio_nav.php:61 
+#: includes/vc_elements/testimonials.php:194 
+#: includes/vc_elements/images_masonry.php:65 
+#: includes/vc_elements/home_slider.php:187
+msgid "Design options"
+msgstr ""
+
+#: includes/vc_elements/post_title.php:5
+msgid "Post Title"
+msgstr ""
+
+#: includes/vc_elements/post_title.php:6
+msgid "Portfolio title"
+msgstr ""
+
+#: includes/vc_elements/post_title.php:19
+msgid "Use 'section-title' for other style."
+msgstr ""
+
+#: includes/vc_elements/partners.php:5
+msgid "Our Partners"
+msgstr ""
+
+#: includes/vc_elements/partners.php:6
+msgid "List of our partners or clients"
+msgstr ""
+
+#: includes/vc_elements/partners.php:19
+msgid "Partner Images"
+msgstr ""
+
+#: includes/vc_elements/partners.php:29
+msgid "Partner Links"
+msgstr ""
+
+#: includes/vc_elements/partners.php:36
+msgid ""
+"Enter links for each partner (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: includes/vc_elements/partners.php:41
+msgid "Target"
+msgstr ""
+
+#: includes/vc_elements/partners.php:44
+msgid "Opens Partner link in new window"
+msgstr ""
+
+#: includes/vc_elements/partners.php:45
+msgid "Opens Partner link in the same window"
+msgstr ""
+
+#: includes/vc_elements/partners.php:52 
+#: includes/vc_elements/images_masonry.php:26
+msgid "Columns Grid"
+msgstr ""
+
+#: includes/vc_elements/partners.php:60 includes/vc_elements/services.php:76
+msgid "Six Columns"
+msgstr ""
+
+#: includes/vc_elements/partners.php:71
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Partner Logos down "
+"every time we scroll down 100% of the viewport height and move Partner Logos "
+"up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for "
+"reverse direction."
+msgstr ""
+
+#: includes/vc_elements/services.php:5 includes/vc_elements/services.php:6
+msgid "Services Grid"
+msgstr ""
+
+#: includes/vc_elements/services.php:17 
+#: includes/vc_elements/portfolios_masonry.php:28 
+#: includes/vc_elements/timelines.php:17 
+#: includes/vc_elements/testimonials.php:17
+msgid "Count"
+msgstr ""
+
+#: includes/vc_elements/services.php:20
+msgid "Number of Services to show"
+msgstr ""
+
+#: includes/vc_elements/services.php:25 includes/vc_elements/services.php:34 
+#: includes/vc_elements/timelines.php:25 includes/vc_elements/timelines.php:34 
+#: includes/vc_elements/testimonials.php:25 
+#: includes/vc_elements/testimonials.php:34
+msgid "Order by"
+msgstr ""
+
+#: includes/vc_elements/services.php:51
+msgid "Or Enter Service IDs"
+msgstr ""
+
+#: includes/vc_elements/services.php:53
+msgid "Enter Service ids to show, separated by a comma. (ex: 99,100)"
+msgstr ""
+
+#: includes/vc_elements/services.php:62
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Services down "
+"every time we scroll down 100% of the viewport height and move Services up "
+"every time we scroll up 100% of the viewport height. Ex: 150 or -150 for "
+"reverse direction."
+msgstr ""
+
+#: includes/vc_elements/services.php:68
+msgid "Thumbnail Columns"
+msgstr ""
+
+#: includes/vc_elements/services.php:88
+msgid "Service Content Width"
+msgstr ""
+
+#: includes/vc_elements/services.php:97 includes/vc_elements/timelines.php:79 
+#: includes/vc_elements/timelines.php:102
+msgid "2/3"
+msgstr ""
+
+#: includes/vc_elements/services.php:98 includes/vc_elements/timelines.php:80 
+#: includes/vc_elements/timelines.php:103
+msgid "3/4"
+msgstr ""
+
+#: includes/vc_elements/services.php:99 includes/vc_elements/timelines.php:81 
+#: includes/vc_elements/timelines.php:104
+msgid "5/6"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:6
+msgid "Owl Carousel Slider"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:7
+msgid "with multi images selected"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:20 
+#: includes/vc_elements/carousel_multiimgs.php:22
+msgid "Slide Images"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:96 
+#: includes/vc_elements/testimonials.php:141 
+#: includes/vc_elements/home_slider.php:120 
+#: includes/vc_elements/home_slideshow.php:48
+msgid "autoplayTimeout"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:99 
+#: includes/vc_elements/testimonials.php:144 
+#: includes/vc_elements/home_slider.php:123 
+#: includes/vc_elements/home_slideshow.php:51
+msgid "Time after display next slide (in milisecond)"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:104 
+#: includes/vc_elements/testimonials.php:149 
+#: includes/vc_elements/home_slider.php:128 
+#: includes/vc_elements/home_slideshow.php:56
+msgid "autoplaySpeed"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:107 
+#: includes/vc_elements/testimonials.php:152 
+#: includes/vc_elements/home_slider.php:131 
+#: includes/vc_elements/home_slideshow.php:59
+msgid "Duration of transition between slides (in ms) or boolen"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:111 
+#: includes/vc_elements/testimonials.php:156 
+#: includes/vc_elements/home_slider.php:135
+msgid "responsive"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:113 
+#: includes/vc_elements/testimonials.php:158 
+#: includes/vc_elements/home_slider.php:137
+msgid ""
+"The format is: screen-size:number-items-display,larger-screen-size:number-"
+"items-display. Ex: 320:1,768:1,992:3,1200:3"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:118 
+#: includes/vc_elements/blog_parallax.php:66 
+#: includes/vc_elements/portfolios_masonry.php:218 
+#: includes/vc_elements/blog_grid.php:66 
+#: includes/vc_elements/members_parallax.php:112 
+#: includes/vc_elements/portfolios_parallax.php:142 
+#: includes/vc_elements/testimonials.php:163 
+#: includes/vc_elements/home_slider.php:142
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:134 
+#: includes/vc_elements/testimonials.php:180
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Slider down every "
+"time we scroll down 100% of the viewport height and move Slider up every "
+"time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse "
+"direction."
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:140 
+#: includes/vc_elements/parallax_box.php:32
+msgid "Box Position"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:143 
+#: includes/vc_elements/parallax_box.php:35
+msgid "Move Left 20%"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:144 
+#: includes/vc_elements/parallax_box.php:36
+msgid "Move Right 20%"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:153
+msgid "Image Size"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:156
+msgid "Small - Tall"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:157
+msgid "Portfolio Slider"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:158
+msgid "Horizontal Slider"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:159
+msgid "Full Size"
+msgstr ""
+
+#: includes/vc_elements/carousel_multiimgs.php:166
+msgid "Show Zoom"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:5
+msgid "Blog Parallax"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:6
+msgid "Parallax layout of blog posts"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:15 
+#: includes/vc_elements/blog_grid.php:15
+msgid "Post Category IDs to include"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:17 
+#: includes/vc_elements/blog_grid.php:17
+msgid ""
+"Enter post category ids to include, separated by a comma. Leave empty to get "
+"posts from all categories."
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:22 
+#: includes/vc_elements/blog_grid.php:22
+msgid "Enter Post IDs"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:24 
+#: includes/vc_elements/blog_grid.php:24
+msgid "Enter Post ids to show, separated by a comma. Leave empty to show all."
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:29 
+#: includes/vc_elements/blog_grid.php:29
+msgid "Order Posts by"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:44 
+#: includes/vc_elements/blog_grid.php:44
+msgid "Ordering"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:57 
+#: includes/vc_elements/blog_grid.php:57
+msgid "Posts to show"
+msgstr ""
+
+#: includes/vc_elements/blog_parallax.php:59 
+#: includes/vc_elements/blog_grid.php:59
+msgid "Number of Blog posts to show (-1 for all)."
+msgstr ""
+
+#: includes/vc_elements/counter.php:5
+msgid "Counter"
+msgstr ""
+
+#: includes/vc_elements/counter.php:6
+msgid "Animated Counter"
+msgstr ""
+
+#: includes/vc_elements/counter.php:18 includes/vc_elements/counter.php:20
+msgid "Number"
+msgstr ""
+
+#: includes/vc_elements/counter.php:26 includes/vc_elements/counter.php:28 
+#: includes/vc_elements/home_vimeo.php:16 
+#: includes/vc_elements/home_youtube.php:16 
+#: includes/vc_elements/home_slider.php:60
+msgid "Content"
+msgstr ""
+
+#: includes/vc_elements/counter.php:35
+msgid "Icon Class"
+msgstr ""
+
+#: includes/vc_elements/counter.php:37
+msgid ""
+"Search icon : <a href='http://fontawesome.io/icons/' target='_blank'>FONT "
+"AWESOME</a>"
+msgstr ""
+
+#: includes/vc_elements/counter.php:42 
+#: includes/vc_elements/home_slideshow.php:80
+msgid "Extraclass"
+msgstr ""
+
+#: includes/vc_elements/counter.php:53
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Number down every "
+"time we scroll down 100% of the viewport height and move Number up every "
+"time we scroll up 100% of the viewport height. Ex: 80 or -80 for reverse "
+"direction."
+msgstr ""
+
+#: includes/vc_elements/home_image.php:5
+msgid "Home Image Background"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:6
+msgid "Page content with image background"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:17 
+#: includes/vc_elements/home_vimeo.php:81 
+#: includes/vc_elements/home_youtube.php:83
+msgid "Background Image"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:19
+msgid "Background image"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:27
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Background Image "
+"down every time we scroll down 100% of the viewport height and move "
+"Background Image up every time we scroll up 100% of the viewport height. Ex: "
+"300  or -300 for reverse direction."
+msgstr ""
+
+#: includes/vc_elements/home_image.php:37 
+#: includes/vc_elements/home_image.php:39 
+#: includes/vc_elements/home_slideshow.php:25 
+#: includes/vc_elements/home_slideshow.php:27
+msgid "Page Content"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:50 
+#: includes/vc_elements/home_vimeo.php:93 
+#: includes/vc_elements/home_youtube.php:95 
+#: includes/vc_elements/home_slider.php:165 
+#: includes/vc_elements/home_slideshow.php:76
+msgid "Overlay Opacity value 0.0 - 1"
+msgstr ""
+
+#: includes/vc_elements/home_image.php:56 
+#: includes/vc_elements/home_image.php:59 
+#: includes/vc_elements/home_vimeo.php:24 
+#: includes/vc_elements/home_vimeo.php:27 
+#: includes/vc_elements/home_youtube.php:24 
+#: includes/vc_elements/home_youtube.php:27 
+#: includes/vc_elements/home_slideshow.php:32 
+#: includes/vc_elements/home_slideshow.php:35
+msgid "Scroll Link"
+msgstr ""
+
+#: includes/vc_elements/member.php:5
+msgid "Team Member"
+msgstr ""
+
+#: includes/vc_elements/member.php:6
+msgid "Team member"
+msgstr ""
+
+#: includes/vc_elements/member.php:18
+msgid "Photo"
+msgstr ""
+
+#: includes/vc_elements/member.php:21
+msgid "Upload avatar photo of the member"
+msgstr ""
+
+#: includes/vc_elements/member.php:26
+msgid "Socials"
+msgstr ""
+
+#: includes/vc_elements/member.php:40
+msgid "Social Link"
+msgstr ""
+
+#: includes/vc_elements/member.php:42
+msgid ""
+"You have to use full Awesome icon class for social icon. Ex: fa fa-facebook. "
+"Or use normal title instead."
+msgstr ""
+
+#: includes/vc_elements/member.php:54
+msgid "Member Info"
+msgstr ""
+
+#: includes/vc_elements/member.php:66
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Member down every "
+"time we scroll down 100% of the viewport height and move Member up every "
+"time we scroll up 100% of the viewport height. Ex: 50 or -50 for reverse "
+"direction."
+msgstr ""
+
+#: includes/vc_elements/member.php:72
+msgid "Disable Overlay"
+msgstr ""
+
+#: includes/vc_elements/member.php:84
+msgid "Disable Bottom Right Decoration"
+msgstr ""
+
+#: includes/vc_elements/portfolio_comment.php:5
+msgid "Portfolio Comment"
+msgstr ""
+
+#: includes/vc_elements/portfolio_comment.php:6
+msgid "Portfolio comment list"
+msgstr ""
+
+#: includes/vc_elements/parallax_box.php:5
+msgid "Parallax Box"
+msgstr ""
+
+#: includes/vc_elements/parallax_box.php:6
+msgid "Content box with parallax effect."
+msgstr ""
+
+#: includes/vc_elements/parallax_box.php:16 
+#: includes/vc_elements/parallax_box.php:18
+msgid "Box Content"
+msgstr ""
+
+#: includes/vc_elements/parallax_box.php:26
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Box down every "
+"time we scroll down 100% of the viewport height and move Box up every time "
+"we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse "
+"direction."
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:5
+msgid "Portfolios Masonry"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:6
+msgid "Masonry layout of portfolio items"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:15
+msgid "Portfolio Category IDs to exclude"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:17
+msgid ""
+"Enter portfolio category ids to exclude, separated by a comma. Leave empty "
+"to display all categories."
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:23
+msgid "Order Portfolio Categories by"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:29
+msgid "Slug"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:37 
+#: includes/vc_elements/members_parallax.php:39
+msgid "Sort Order"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:49
+msgid "Show Filter"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:62 
+#: includes/vc_elements/portfolios_parallax.php:23
+msgid "Enter Portfolio IDs"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:64
+msgid ""
+"Enter portfolio ids to show, separated by a comma. Leave empty to get all."
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:69
+msgid "Portfolio IDs to Exclude"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:71
+msgid ""
+"Enter portfolio ids to exclude, separated by a comma. Use if the field above "
+"is empty. Leave empty to get all."
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:76 
+#: includes/vc_elements/portfolios_masonry.php:85 
+#: includes/vc_elements/portfolios_parallax.php:30 
+#: includes/vc_elements/portfolios_parallax.php:39
+msgid "Order Portfolios by"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:91 
+#: includes/vc_elements/portfolios_masonry.php:98 
+#: includes/vc_elements/portfolios_parallax.php:45 
+#: includes/vc_elements/portfolios_parallax.php:52
+msgid "Order Portfolios"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:104 
+#: includes/vc_elements/members_parallax.php:51 
+#: includes/vc_elements/portfolios_parallax.php:58
+msgid "Post to show"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:106 
+#: includes/vc_elements/portfolios_parallax.php:60
+msgid "Number of portfolio items to show (-1 for all)."
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:116
+msgid "Columns Layout"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:132
+msgid "Show Info"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:135
+msgid "Show On Hover"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:165 
+#: includes/vc_elements/members_parallax.php:72 
+#: includes/vc_elements/portfolios_parallax.php:79
+msgid "Show Date"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:179 
+#: includes/vc_elements/portfolios_parallax.php:93
+msgid "Show Category"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:193 
+#: includes/vc_elements/members_parallax.php:87 
+#: includes/vc_elements/portfolios_parallax.php:107
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/vc_elements/portfolios_masonry.php:206 
+#: includes/vc_elements/portfolios_parallax.php:120
+msgid "Show View Project"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:5
+msgid "Landing Page Section"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:6
+msgid "For Home Landing template only"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:17
+msgid "Logo"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:32
+msgid "Subtitle"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:40
+msgid "Landing Content"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:47
+msgid "Show Right Iframe"
+msgstr ""
+
+#: includes/vc_elements/home_landing.php:59
+msgid "Show Constellation"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:5
+msgid "Timeline List"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:6
+msgid "Timeline list"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:20
+msgid "Number of Timelines to show"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:51
+msgid "Or Enter Timeline IDs"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:53
+msgid "Enter Timeline ids to show, separated by a comma. (ex: 99,100)"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:62
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Timelines down "
+"every time we scroll down 100% of the viewport height and move Timelines up "
+"every time we scroll up 100% of the viewport height. Ex: 150 or -150 for "
+"reverse direction."
+msgstr ""
+
+#: includes/vc_elements/timelines.php:68
+msgid "Left Columns"
+msgstr ""
+
+#: includes/vc_elements/timelines.php:91
+msgid "Right Columns"
+msgstr ""
+
+#: includes/vc_elements/blog_grid.php:5
+msgid "Blog Grid"
+msgstr ""
+
+#: includes/vc_elements/blog_grid.php:6
+msgid "Grid layout of blog posts"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:5
+msgid "Members Parallax"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:6
+msgid "Parallax layout of member items"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:17
+msgid "Enter Member IDs"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:19
+msgid "Enter member ids to show, separated by a comma."
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:24
+msgid "Order Members by"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:53
+msgid "Number of member items to show (-1 for all)."
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:58 
+#: includes/vc_elements/portfolios_parallax.php:65
+msgid "First Side"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:62 
+#: includes/vc_elements/portfolios_parallax.php:69
+msgid "Left"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:63 
+#: includes/vc_elements/portfolios_parallax.php:70
+msgid "Right"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:100
+msgid "Show View More"
+msgstr ""
+
+#: includes/vc_elements/members_parallax.php:128 
+#: includes/vc_elements/portfolios_parallax.php:158
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Portfolio Title "
+"down every time we scroll down 100% of the viewport height and move "
+"Portfolio Title up every time we scroll up 100% of the viewport height. Ex: "
+"150 or -150 for reverse direction."
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:5
+msgid "Portfolios Parallax"
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:6
+msgid "Parallax layout of portfolio items"
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:15
+msgid "Portfolio Category IDs to include"
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:17
+msgid ""
+"Enter portfolio category ids to include, separated by a comma. Leave empty "
+"to get portfolios from all categories."
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:25
+msgid "Enter portfolio ids to show, separated by a comma."
+msgstr ""
+
+#: includes/vc_elements/portfolios_parallax.php:134
+msgid "View All Projects Link"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:5
+msgid "Skills Bar"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:6
+msgid "Animated skills bar"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:15
+msgid "Widget Title"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:23
+msgid "Values"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:26
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:29
+msgid "Photoshop"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:33
+msgid "Illustrator"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:37
+msgid "3D MAX"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:45
+msgid "Label"
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:47
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: includes/vc_elements/skills_bar.php:54
+msgid "Enter value of bar."
+msgstr ""
+
+#: includes/vc_elements/breadcrumb.php:5
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/vc_elements/breadcrumb.php:6
+msgid "Portfolio Breadcrumb"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:5
+msgid "Portfolio Nav"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:6
+msgid "Portfolio post nav"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:17
+msgid "In Same Terms"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:18
+msgid ""
+"Whether previous/next posts must be within the same taxonomy term as the "
+"current post."
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:33
+msgid "Show All Project"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:44
+msgid "All Projects Link"
+msgstr ""
+
+#: includes/vc_elements/portfolio_nav.php:47
+msgid "Leave empty to use default portfolio archive link."
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:5
+msgid "Home Vimeo Video"
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:6
+msgid "Home background video from Vimeo"
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:35
+msgid "Your Vimeo Video ID"
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:38
+msgid "Your Vimeo Video ID: 143243001"
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:83 
+#: includes/vc_elements/home_youtube.php:85
+msgid "Background image for mobile device"
+msgstr ""
+
+#: includes/vc_elements/home_vimeo.php:101 
+#: includes/vc_elements/home_youtube.php:103
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Background Video "
+"down every time we scroll down 100% of the viewport height and move "
+"Background Video up every time we scroll up 100% of the viewport height. Ex: "
+"300 or -300 for reverse direction."
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:5
+msgid "Testimonial Slider"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:6
+msgid "Testimonail Slider"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:20
+msgid "Number of testimonials to show"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:51
+msgid "Or Enter Testimonial IDs"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:53
+msgid "Enter testimonial ids to show, separated by a comma. (ex: 99,100)"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:58
+msgid "Show Avatar"
+msgstr ""
+
+#: includes/vc_elements/testimonials.php:66
+msgid "Show avatar"
+msgstr ""
+
+#: includes/vc_elements/home_youtube.php:5
+msgid "Home Youtube Video"
+msgstr ""
+
+#: includes/vc_elements/home_youtube.php:6
+msgid "Home background video from Youtube"
+msgstr ""
+
+#: includes/vc_elements/home_youtube.php:35
+msgid "Your Youtube Video ID"
+msgstr ""
+
+#: includes/vc_elements/home_youtube.php:38
+msgid "Your Youtube Video ID: oDpSPNIozt8"
+msgstr ""
+
+#: includes/vc_elements/home_youtube.php:71
+msgid "Pause on scroll"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:5
+msgid "Google Map"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:6
+msgid "Monolit google map style"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:18
+msgid "Address Latitude"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:21
+msgid ""
+"Enter your address latitude. You can get your value from: <a href='http:"
+"//www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates."
+"net/</a>"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:27
+msgid "Address Longtitude"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:30
+msgid ""
+"Enter your address longtitude. You can get your value from: <a href='http:"
+"//www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates."
+"net/</a>"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:37 includes/vc_elements/gmap.php:40
+msgid "Address String"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:46 includes/vc_elements/gmap.php:49
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:56
+msgid "Map Marker"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:59
+msgid "Upload google map marker or leave it empty to use default."
+msgstr ""
+
+#: includes/vc_elements/gmap.php:65
+msgid "Map Height"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:68
+msgid "Enter your map height in pixel. Default: 400"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:74
+msgid "Use Default Style"
+msgstr ""
+
+#: includes/vc_elements/gmap.php:80
+msgid "Set this to Yes to use default Google map style."
+msgstr ""
+
+#: includes/vc_elements/gmap.php:88
+#, php-format
+msgid ""
+"Pixel number. Which we are telling the browser is to move Google Map down "
+"every time we scroll down 100% of the viewport height and move Google Map up "
+"every time we scroll up 100% of the viewport height. Ex: 150 or -150 for "
+"reverse direction."
+msgstr ""
+
+#: includes/vc_elements/images_masonry.php:5
+msgid "Popup Gallery Masonry"
+msgstr ""
+
+#: includes/vc_elements/images_masonry.php:6
+msgid "Photos gallery masonry layout for monolit project with popup effect"
+msgstr ""
+
+#: includes/vc_elements/images_masonry.php:18
+msgid "Gallery Photos"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:5
+msgid "Home Slider"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:6
+msgid "Slider element for home page"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:17
+msgid "Slides"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:54
+msgid "Slide Image"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:111
+msgid "Restart when reaches to the end."
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:154
+msgid "Animated Duration"
+msgstr ""
+
+#: includes/vc_elements/home_slider.php:157
+msgid ""
+"Time after display background image will change after text slide changed (in "
+"milisecond). Ex: 1300"
+msgstr ""
+
+#: includes/vc_elements/home_slideshow.php:5
+msgid "Home Slideshow"
+msgstr ""
+
+#: includes/vc_elements/home_slideshow.php:6
+msgid "Monolit home with background slideshow images"
+msgstr ""
+
+#: includes/vc_elements/home_slideshow.php:17
+msgid "Background Images"
+msgstr ""
+
+#: includes/vc_elements/home_slideshow.php:19
+msgid "Background slideshow images"
+msgstr ""
+
+#: includes/vc_elements/home_slideshow.php:43
+msgid "The maximum amount of items displayed: 1"
+msgstr ""
+
+#. Name of the plugin
+msgid "Monolit Add-Ons"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A custom plugin for Monolit - Creative Responsive Architecture WordPress "
+"Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://demowp.cththemes.net/monolit/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/cththemes"
+msgstr ""

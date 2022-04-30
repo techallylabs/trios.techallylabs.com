@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Full Demo Content (widgets included) were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://trios.techallylabs.com
+Data file = /home/be0w6ffilnlm/public_html/trios.techallylabs.com/wp-content/themes/monolit/includes/demo_data_files/monolit-all.xml
+Widget file = /home/be0w6ffilnlm/public_html/trios.techallylabs.com/wp-content/themes/monolit/includes/demo_data_files/monolit.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Text - About Author - Imported
+Monolit Recent Posts - Last Posts - Imported
+Tag Cloud - Tags - Imported
+Categories - Categories - Imported
+Meta - No Title - Imported
+
+
+
+---ocdi/after_import---
+
